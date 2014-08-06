@@ -1,0 +1,19 @@
+{
+  "name": "online-chat",
+  "main": "index.js",
+  "version": "0.0.0",
+  "authors": [
+    "anonymelon <anonymelon@163.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "socket.io": "~1.0.6"
+  }
+}
